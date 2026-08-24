@@ -4,8 +4,6 @@ Secure Hub-and-Spoke architecture in Azure with proper Peering, Bastion, Private
 # Azure Hub-and-Spoke Network Architecture
 
 ## Overview
--I'm letting a a youtube video available that brings a close look to the environment and explains the solution.
-https://www.youtube.com/watch?v=iIzOK92NOtk
 
 This project demonstrates a Hub-and-Spoke architecture built in Microsoft Azure, designed to provide:
 
@@ -16,6 +14,8 @@ This project demonstrates a Hub-and-Spoke architecture built in Microsoft Azure,
 * Private resource access
 * Backup and recovery strategy
 
+-I'm letting a youtube video available that brings a close look to the environment and explains the solution.
+https://www.youtube.com/watch?v=iIzOK92NOtk
 
 ---
 
