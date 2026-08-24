@@ -1,5 +1,5 @@
 # azure-secure-network-architecture
-Secure Hub-and-Spoke architecture in Azure with Bastion, Private Endpoint, and Backup strategy.
+Secure Hub-and-Spoke architecture in Azure with proper Peering, Bastion, Private Endpoint, UDRs, Storage Account, Backup strategy and more.
 
 # Azure Hub-and-Spoke Network Architecture
 
