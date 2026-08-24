@@ -14,7 +14,7 @@ This project demonstrates a Hub-and-Spoke architecture built in Microsoft Azure,
 * Private resource access
 * Backup and recovery strategy
 
--I'm letting a youtube video available that brings a close look to the environment and explains the solution.
+-I'm letting a youtube video available which brings a closer look to the environment and explains the solution.
 https://www.youtube.com/watch?v=iIzOK92NOtk
 
 ---
